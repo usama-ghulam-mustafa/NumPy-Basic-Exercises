@@ -1,6 +1,4 @@
-# NumPy Image Processing Exercises
-
-10 exercises covering NumPy fundamentals applied to image arrays.
+# WEEK 1-2
 
 ## Topics Covered
 - Image array structure (shape, dtype)
@@ -11,3 +9,6 @@
 - Pixel histograms
 - Binary masking
 - Normalization
+- NumPy core — shape, dtype, slicing, masking, broadcasting, normalization
+- Images as matrices — PIL, matplotlib, HWC convention, channel splitting
+- Image operations — cropping, flipping, rotation, brightness, contrast, histogram
